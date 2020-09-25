@@ -1,0 +1,81 @@
+body{
+  background-image: linear-gradient(to right, #FBD9FB, #9EF8FD);
+  padding: 10px;
+}
+footer{
+  background-color: white;
+  padding: 30px;
+  text-align: center;
+}
+.basic, .account, .academic{
+  border:0.2px solid black;
+  padding: 5px;
+  margin: 30px;
+  border-radius: 10px;
+}
+.inputs{
+  font-weight: bold;
+  padding: 2px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: #E8FEF6;
+}
+.table1{
+  padding: 5px;
+}
+h1{
+  font-family: sans-serif;
+  text-align: center;
+  padding: 10px;
+  color:  #50A2E0;
+}
+.h2_1{
+  width: 150px;
+  background-color: #FBD9FB;
+  margin-top:-15px;
+  margin-left:5px;
+  font-family: sans-serif;
+}
+.h2_2{
+  width: 200px;
+  background-color: #FBD9FB;
+  margin-top:-15px;
+  margin-left:5px;
+  font-family: sans-serif;
+}
+.h2_3{
+  width: 450px;
+  background-color: #FBD9FB;
+  margin-top:-15px;
+  margin-left:5px;
+  font-family: sans-serif;
+}
+#img1{
+  float: right;
+  width: 350px;
+  height: 1110px;
+  padding: 20px;
+  margin-right: 13px;
+  }
+.address{
+  margin-left: 70px;
+}
+.btn{
+  margin-left: 20px;
+  padding: 5px;
+  margin-bottom: 40px;
+}
+#btn1{
+  font-weight: bold;
+  padding: 3px;
+  color: red;
+  background-color: #FAFEA7;
+  border-radius: 7px;
+}
+#btn1:hover {
+  border-color: black;
+  padding: 5px;
+}
+.inputs:hover{
+  background-color: #C6FEE5;
+}
